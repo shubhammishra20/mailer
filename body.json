@@ -1,0 +1,20 @@
+{
+    "from": {
+      "name": "Shubham Node js",
+      "address": "sm863037@gmail.com"
+    },
+    "to": ["shubhcoradius@gmail.com"],
+    "subject": "Added time Meeting Invitation on zoom",
+    "text": "Dear recipient,\n\nYou are invited to join the meeting scheduled for February 28, 2024, at 3:00 PM (UTC). Click the link below to join:\n\nMeeting Link: [https://us05web.zoom.us/j/82483675734?pwd=iLnXQ0FBxJaVoOFCJ2clOiux6Lg8G1.1]\n\nBest regards,\nShubham Mishra",
+    "html": "<p>Dear recipient,</p><p>You are invited to join the meeting scheduled for <b>February 28, 2024, at 3:00 PM (UTC)</b>. Click the link below to join:</p><p><strong>Meeting Link:</strong> <a href='https://us05web.zoom.us/j/82483675734?pwd=iLnXQ0FBxJaVoOFCJ2clOiux6Lg8G1.1'>Join Meeting</a></p><p>Best regards,<br/>Shubham Mishra</p>",
+    "attachments": [
+      {
+        "filename": "document.pdf",
+        "path": "/home/ubuntu/Desktop/mailservice/routes/Resume.pdf",
+        "contentType": "application/pdf"
+      }
+    ],
+    "scheduledAt": "2023-02-28T15:00:00.000Z",
+    "sentAt": null
+  }
+  
